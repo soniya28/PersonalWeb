@@ -265,11 +265,11 @@ nav ul{
 {
   .profile img{
     height:200px;
-    transform: translateY(50px);
+    transform: translateY(45px);
   }
   .content .big{
   font-size: 27px;
-   transform: translateY(55px);
+   transform: translateY(50px);
 
 
  
@@ -278,7 +278,7 @@ nav ul{
 
 .content .lil{
   font-size: 20px;
-  transform: translateY(45px);
+  transform: translateY(40px);
 
   
 }
